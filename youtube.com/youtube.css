@@ -1,0 +1,1112 @@
+.youtube {
+    height:60px;
+    width: 100%;
+    border: solid 0px black;
+    display: flex;
+    position: fixed;
+    top: 0px;
+    background: white;
+}
+.you img{
+    height:29px;
+    width: 29px;
+    margin-top: 20px;
+}
+.tube img{
+    margin-top: 1px;
+}
+.song{
+    margin-left: 230px;
+    border: solid 0px;
+    position: relative;
+}
+.song input{
+    
+    margin-top: 10px;
+     border-radius: 25px ;
+     height:39px;
+     
+     width: 590px;
+     border: solid 1px grey;
+}
+.song input{
+    padding-left: 20px;
+} 
+.sear img{
+    position: absolute;
+    height: 29px;
+    width: 29px;
+    margin-top: -35px;
+    margin-left: 575px;
+}
+.mic img{
+    height: 25px;
+    width: 25px;
+    margin-top: 19px;
+    margin-left: 20px;
+}
+.dot img{
+   height:25px;
+   width:25px;
+   margin-left: 300px;
+   margin-top: 20px;
+}
+.sign button{
+    color:#065fd4; 
+    margin-left: 10px;
+    height: 35px;
+    margin-top: 12px;
+    width: 90px;
+    padding-left: 26px;
+    border-radius: 20px;
+    border: solid 2px #065fd4;
+}
+.sign img{
+    height: 25px;
+    width: 25px;
+    margin-top: 17px;
+    margin-left: 18px;
+}
+.sign{
+    position: relative;
+}
+.per img{
+    position: absolute;
+}
+.sandal{
+    height:40px;
+    width: 94%;
+    border: solid 0px black;
+    display: flex;
+    margin-left: 70px;
+    margin-top: 10px;
+    position: fixed;
+    top: 50px;
+    background: white;
+}
+.all{
+    border: solid 2px;
+    height:25px;
+    width: 35px;
+    font-family: sans-serif;
+    font-weight: bold;
+    color: white;
+    background-color: black;
+    border-radius: 10px;
+    margin-top: 4px;
+    margin-left: 00px;
+    padding-left: 12px;
+    padding-top: 5px;  
+   font-size: 14px;
+}
+.mixes{
+    border: solid 0px rgba(128, 128, 128, 0.534);
+    background-color: rgba(139, 127, 127, 0.381);
+    height:22px;
+    width: 43px;
+    font-family: sans-serif;
+    font-weight: bolder;
+    color: #0F0F0F;
+    /* background-color: black; */
+    border-radius: 10px;
+    font-size: 13px;
+    margin-top: 4px;
+    margin-left: 15px;
+    padding-left: 8px;
+    padding-top: 7px;  
+
+}
+.music{
+    border: solid 0px rgba(128, 128, 128, 0.534);
+    background-color: rgba(139, 127, 127, 0.381);
+    height:22px;
+    width: 43px;
+    font-family: sans-serif;
+    font-weight: bolder;
+    color: #0F0F0F;
+    /* background-color: black; */
+    border-radius: 10px;
+    font-size: 13px;
+    margin-top: 4px;
+    margin-left: 15px;
+    padding-left: 8px;
+    padding-top: 7px;  
+    
+}
+.arjun{
+    border: solid 0px rgba(128, 128, 128, 0.534);
+    background-color: rgba(139, 127, 127, 0.381);
+    height:22px;
+    width: 77px;
+    font-family: sans-serif;
+    font-weight: bolder;
+    color: #0F0F0F;
+    /* background-color: black; */
+    border-radius: 10px;
+    font-size: 13px;
+    margin-top: 4px;
+    margin-left: 15px;
+    padding-left: 5px;
+    padding-top: 7px; 
+}
+.pop{
+    border: solid 0px rgba(128, 128, 128, 0.534);
+    background-color: rgba(139, 127, 127, 0.381);
+    height:22px;
+    width: 112px;
+    font-family: sans-serif;
+    font-weight: bolder;
+    color: #0F0F0F;
+    /* background-color: black; */
+    border-radius: 10px;
+    font-size: 13px;
+    margin-top: 4px;
+    margin-left: 15px;
+    padding-left: 5px;
+    padding-top: 7px; 
+}
+.film{
+    border: solid 0px rgba(128, 128, 128, 0.534);
+    background-color: rgba(139, 127, 127, 0.381);
+    height:22px;
+    width: 43px;
+    font-family: sans-serif;
+    font-weight: bolder;
+    color: #0F0F0F;
+    /* background-color: black; */
+    border-radius: 10px;
+    font-size: 13px;
+    margin-top: 4px;
+    margin-left: 15px;
+    padding-left: 8px;
+    padding-top: 7px;  
+}
+.live{
+    border: solid 0px rgba(128, 128, 128, 0.534);
+    background-color: rgba(139, 127, 127, 0.381);
+    height:22px;
+    width: 37px;
+    font-family: sans-serif;
+    font-weight: bolder;
+    color: #0F0F0F;
+    /* background-color: black; */
+    border-radius: 10px;
+    font-size: 13px;
+    margin-top: 4px;
+    margin-left: 15px;
+    padding-left: 9px;
+    padding-top: 7px;  
+}
+.reverb{
+    border: solid 0px rgba(128, 128, 128, 0.534);
+    background-color: rgba(139, 127, 127, 0.381);
+    height:22px;
+    width: 92px;
+    font-family: sans-serif;
+    font-weight: bolder;
+    color: #0F0F0F;
+    /* background-color: black; */
+    border-radius: 10px;
+    font-size: 13px;
+    margin-top: 4px;
+    margin-left: 15px;
+    padding-left: 5px;
+    padding-top: 7px;
+}
+.ali{
+    border: solid 0px rgba(128, 128, 128, 0.534);
+    background-color: rgba(139, 127, 127, 0.381);
+    height:22px;
+    width: 135px;
+    font-family: sans-serif;
+    font-weight: bolder;
+    color: #0F0F0F;
+    /* background-color: black; */
+    border-radius: 10px;
+    font-size: 13px;
+    margin-top: 4px;
+    margin-left: 15px;
+    padding-left: 5px;
+    padding-top: 7px; 
+}
+.game{
+    border: solid 0px rgba(128, 128, 128, 0.534);
+    background-color: rgba(139, 127, 127, 0.381);
+    height:22px;
+    width: 55px;
+    font-family: sans-serif;
+    font-weight: bolder;
+    color: #0F0F0F;
+    /* background-color: black; */
+    border-radius: 10px;
+    font-size: 13px;
+    margin-top: 4px;
+    margin-left: 15px;
+    padding-left: 8px;
+    padding-top: 7px;  
+    
+}
+.tamil{
+    border: solid 0px rgba(128, 128, 128, 0.534);
+    background-color: rgba(139, 127, 127, 0.381);
+    height:22px;
+    width: 90px;
+    font-family: sans-serif;
+    font-weight: bolder;
+    color: #0F0F0F;
+    /* background-color: black; */
+    border-radius: 10px;
+    font-size: 13px;
+    margin-top: 4px;
+    margin-left: 15px;
+    padding-left: 5px;
+    padding-top: 7px;
+}
+.news{
+    border: solid 0px rgba(128, 128, 128, 0.534);
+    background-color: rgba(139, 127, 127, 0.381);
+    height:22px;
+    width: 43px;
+    font-family: sans-serif;
+    font-weight: bolder;
+    color: #0F0F0F;
+    /* background-color: black; */
+    border-radius: 10px;
+    font-size: 13px;
+    margin-top: 4px;
+    margin-left: 15px;
+    padding-left: 9px;
+    padding-top: 7px; 
+}
+.drama{
+    border: solid 0px rgba(128, 128, 128, 0.534);
+    background-color: rgba(139, 127, 127, 0.381);
+    height:22px;
+    width: 62px;
+    font-family: sans-serif;
+    font-weight: bolder;
+    color: #0F0F0F;
+    /* background-color: black; */
+    border-radius: 10px;
+    font-size: 13px;
+    margin-top: 4px;
+    margin-left: 15px;
+    padding-left: 8px;
+    padding-top: 7px;  
+}
+.electro{
+    border: solid 0px rgba(128, 128, 128, 0.534);
+    background-color: rgba(139, 127, 127, 0.381);
+    height:22px;
+    width: 110px;
+    font-family: sans-serif;
+    font-weight: bolder;
+    color: #0F0F0F;
+    /* background-color: black; */
+    border-radius: 10px;
+    font-size: 13px;
+    margin-top: 4px;
+    margin-left: 15px;
+    padding-left: 5px;
+    padding-top: 7px;
+}
+.recent{
+    border: solid 0px rgba(128, 128, 128, 0.534);
+    background-color: rgba(139, 127, 127, 0.381);
+    height:22px;
+    width: 122px;
+    font-family: sans-serif;
+    font-weight: bolder;
+    color: #0F0F0F;
+    /* background-color: black; */
+    border-radius: 10px;
+    font-size: 13px;
+    margin-top: 4px;
+    margin-left: 15px;
+    padding-left: 5px;
+    padding-top: 7px; 
+}
+.achieve{
+    display: flex;
+}
+.book{
+    height: 400px;
+    width: 80px;
+    border: solid 0px;
+    margin-top: -50px;
+    position: fixed;
+    top: 110px;
+    left: 0px;
+    background-color: white;
+}
+.mobile{
+    height:340px;
+    width: 100%;
+    border: solid 0 px;
+    display: flex;
+    margin-top: 90px;
+    margin-left: 70px;
+}
+.box img{
+    height: 60px;
+    width: 60px;
+    margin-left: 5px;
+    margin-top: 10px;
+}
+.ram{
+   height:320px;
+   width: 340px;
+   margin-top: 25px;
+   margin-left: 8px;
+   border:solid 0px;
+   border-radius: 20px;
+}
+.laksh{
+    height:200px;
+    width: 340px;
+    border-radius: 20px;
+    border: solid 0px;
+    background-image: url(./youtubeimg/aakash.jpg);
+    background-image:no-repeat;
+    background-size: cover;
+    
+}
+.ram h3{
+    font-family: sans-serif;
+    font-size: 15px;
+    margin-left: 10px;
+}
+.ram h5{
+    font-family: sans-serif;
+    font-size: 13px;
+    color: grey;
+    font-weight: lighter;
+    margin-top: -5px;
+    margin-left: 10px;
+}
+.ram1{
+    height:320px;
+    width: 350px;
+    margin-top: 25px;
+    margin-left: 25px;
+    border:solid 0px;
+    border-radius: 20px;
+    margin-left: 10px;
+ }
+.laksh1{
+    height:200px;
+    width: 350px;
+    border-radius: 20px;
+    /* margin-left: 0px; */
+    border: solid 0px;
+    background-image: url(./youtubeimg/gagan.webp);
+    background-image:no-repeat;
+    background-size: cover;
+    
+}
+.circ{
+    height: 30px;
+    width: 30px;
+    border: solid 1px;
+    border-radius: 50%;
+    background-image: url(./youtubeimg/circ.jpg);
+     background-image: no-repeat;
+    background-size: cover;
+    margin-top: 14px;
+    margin-left: 10px;
+}
+.ram1 h3{
+    font-family: sans-serif;
+    font-size: 15px;
+    margin-top: -33px;
+    margin-left: 50px;
+}
+.ram1 h5{
+    font-family: sans-serif;
+    font-size: 13px;
+    color: grey;
+    font-weight: lighter;
+    margin-top: -5px;
+    margin-left: 50px;
+}
+.ram2{
+    height:320px;
+    width: 350px;
+    margin-top: 25px;
+    margin-left: 25px;
+    border:solid 0px;
+    border-radius: 20px;
+    margin-left: 10px;
+}
+.laksh2{
+    height:200px;
+    width: 350px;
+    border-radius: 20px;
+    /* margin-left: 0px; */
+    border: solid 0px;
+    background-image: url(./youtubeimg/k.webp);
+    background-image:no-repeat;
+    background-size: cover;
+    
+}
+.circ2{
+    height: 30px;
+    width: 30px;
+    border: solid 1px;
+    border-radius: 50%;
+    background-image: url(./youtubeimg/anand.jpg);
+     background-image: no-repeat;
+    background-size: cover;
+    margin-top: 14px;
+    margin-left: 10px;
+}
+.ram2 h3{
+    font-family: sans-serif;
+    font-size: 15px;
+    margin-top: -33px;
+    margin-left: 50px;
+}
+.ram2 h5{
+    font-family: sans-serif;
+    font-size: 13px;
+    color: grey;
+    font-weight: lighter;
+    margin-top: -5px;
+    margin-left: 50px;
+}
+.ram3{
+    height:320px;
+    width: 350px;
+    margin-top: 25px;
+    margin-left: 25px;
+    border:solid 0px;
+    border-radius: 20px;
+    margin-left: 10px;
+}
+.laksh3{
+    height:200px;
+    width: 350px;
+    border-radius: 20px;
+    /* margin-left: 0px; */
+    border: solid 0px;
+    background-image: url(./youtubeimg/amma.webp);
+    background-image:no-repeat;
+    background-size: cover;
+    
+}
+.circ3{
+    height: 30px;
+    width: 30px;
+    border: solid 1px;
+    border-radius: 50%;
+    background-image: url(./youtubeimg/circ.jpg);
+     background-image: no-repeat;
+    background-size: cover;
+    margin-top: 14px;
+    margin-left: 10px;
+}
+.ram3 h3{
+    font-family: sans-serif;
+    font-size: 15px;
+    margin-top: -33px;
+    margin-left: 50px;
+}
+.ram3 h5{
+    font-family: sans-serif;
+    font-size: 13px;
+    color: grey;
+    font-weight: lighter;
+    margin-top: -5px;
+    margin-left: 50px;
+}
+.achieve1{
+    display: flex;
+}
+.book1{
+    height: 340px;
+    width: 80px;
+    border: solid 0px;
+    margin-top: 0px;
+}
+.mobile1{
+    height:340px;
+    width: 100%;
+    border: solid 0px;
+    display: flex;
+    margin-top: 0px;
+}
+.ram11{
+    height:320px;
+    width: 350px;
+    margin-top: 25px;
+    margin-left: 25px;
+    border:solid 0px;
+    border-radius: 20px;
+    margin-left: 10px;
+ }
+ .laksh11{
+    height:200px;
+    width: 350px;
+    border-radius: 20px;
+    /* margin-left: 0px; */
+    border: solid 0px;
+    background-image: url(./youtubeimg/satrang.webp);
+    background-image:no-repeat;
+    background-size: cover;
+    
+     
+ }
+ .circ33{
+    height: 30px;
+    width: 30px;
+    border: solid 1px;
+    border-radius: 50%;
+    background-image: url(./youtubeimg/sat.jpg);
+     background-image: no-repeat;
+    background-size: cover;
+    margin-top: 14px;
+    margin-left: 10px;
+}
+ .ram11 h3{
+    font-family: sans-serif;
+    font-size: 15px;
+    margin-top: -33px;
+    margin-left: 50px;
+ }
+ .ram11 h5{
+    font-family: sans-serif;
+    font-size: 13px;
+    color: grey;
+    font-weight: lighter;
+    margin-top: -5px;
+    margin-left: 50px;
+ }
+ .ram12{
+    height:320px;
+    width: 350px;
+    margin-top: 25px;
+    margin-left: 25px;
+    border:solid 0px;
+    border-radius: 20px;
+    margin-left: 10px;
+ }
+ .laksh12{
+    height:200px;
+    width: 350px;
+    border-radius: 20px;
+    /* margin-left: 0px; */
+    border: solid 0px;
+    background-image: url(./youtubeimg/jailer.jpg);
+    background-image:no-repeat;
+    background-size: cover;
+    
+     
+ }
+ .circ12{
+    height: 30px;
+    width: 30px;
+    border: solid 1px;
+    border-radius: 50%;
+    background-image: url(./youtubeimg/suntv.jpg);
+     background-image: no-repeat;
+    background-size: cover;
+    margin-top: 14px;
+    margin-left: 10px;
+}
+ .ram12 h3{
+    font-family: sans-serif;
+    font-size: 15px;
+    margin-top: -33px;
+    margin-left: 50px;
+ }
+ .ram12 h5{
+    font-family: sans-serif;
+    font-size: 13px;
+    color: grey;
+    font-weight: lighter;
+    margin-top: -5px;
+    margin-left: 50px;
+ }
+ .ram13{
+    height:320px;
+    width: 350px;
+    margin-top: 25px;
+    margin-left: 25px;
+    border:solid 0px;
+    border-radius: 20px;
+    margin-left: 10px;
+ }
+ .laksh13{
+    height:200px;
+    width: 350px;
+    border-radius: 20px;
+    /* margin-left: 0px; */
+    border: solid 0px;
+    background-image: url(./youtubeimg/thala.webp);
+    background-image:no-repeat;
+    background-size: cover;
+    
+     
+ }
+ .circ13{
+    height: 30px;
+    width: 30px;
+    border: solid 1px;
+    border-radius: 50%;
+    background-image: url(./youtubeimg/sony.jpg);
+     background-image: no-repeat;
+    background-size: cover;
+    margin-top: 14px;
+    margin-left: 10px;
+}
+ .ram13 h3{
+    font-family: sans-serif;
+    font-size: 15px;
+    margin-top: -33px;
+    margin-left: 50px;
+ }
+ .ram13 h5{
+    font-family: sans-serif;
+    font-size: 13px;
+    color: grey;
+    font-weight: lighter;
+    margin-top: -5px;
+    margin-left: 50px;
+ }
+ .ram33{
+    height:320px;
+    width: 350px;
+    margin-top: 25px;
+    margin-left: 25px;
+    border:solid 0px;
+    border-radius: 20px;
+    margin-left: 10px;
+ }
+ .laksh33{
+    height:200px;
+    width: 350px;
+    border-radius: 20px;
+    /* margin-left: 0px; */
+    border: solid 0px;
+    background-image: url(./youtubeimg/sin.webp);
+    background-image:no-repeat;
+    background-size: cover;
+    
+     
+ }
+ .circ33{
+    height: 30px;
+    width: 30px;
+    border: solid 1px;
+    border-radius: 50%;
+    background-image: url(./youtubeimg/sony.jpg);
+     background-image: no-repeat;
+    background-size: cover;
+    margin-top: 14px;
+    margin-left: 10px;
+}
+ .ram33 h3{
+    font-family: sans-serif;
+    font-size: 15px;
+    margin-top: -33px;
+    margin-left: 50px;
+ }
+ .ram33 h5{
+    font-family: sans-serif;
+    font-size: 13px;
+    color: grey;
+    font-weight: lighter;
+    margin-top: -5px;
+    margin-left: 50px;
+    overflow: hidden;
+ }
+ .ram111{
+    height:380px;
+    width: 225px;
+    margin-top: 25px;
+    margin-left: 12px;
+    border:solid 0px;
+    border-radius: 20px;
+ }
+ .laksh111{
+     height:380px;
+     width: 225px;
+     border-radius: 20px;
+     border: solid 0px;
+     background-image: url(./youtubeimg/ducati.webp);
+      background-image: cover;
+     background-repeat: no-repeat;
+     background-size: cover;
+ }
+ .ram111 h3{
+     font-family: sans-serif;
+     font-size: 15px;
+     margin-left: 10px;
+ }
+ .ram111 h5{
+     font-family: sans-serif;
+     font-size: 13px;
+     color: grey;
+     font-weight: lighter;
+     margin-top: -5px;
+     margin-left: 10px;
+ }
+ .ram222{
+    height:380px;
+    width: 225px;
+    margin-top: 25px;
+    margin-left: 12px;
+    border:solid 0px;
+    border-radius: 20px;
+ }
+ .laksh222{
+     height:380px;
+     width: 225px;
+     border-radius: 20px;
+     border: solid 0px;
+      background-image: url(./youtubeimg/coup.webp); 
+     background-image:no-repeat;
+     background-size: cover;
+     
+ }
+ .ram222 h3{
+     font-family: sans-serif;
+     font-size: 15px;
+     margin-left: 10px;
+ }
+ .ram222 h5{
+     font-family: sans-serif;
+     font-size: 13px;
+     color: grey;
+     font-weight: lighter;
+     margin-top: -5px;
+     margin-left: 10px;
+ }
+ .ram333{
+    height:380px;
+    width: 225px;
+    margin-top: 25px;
+    margin-left: 12px;
+    border:solid 0px;
+    border-radius: 20px;
+ }
+ .laksh333{
+     height:380px;
+     width: 225px;
+     border-radius: 20px;
+     border: solid 0px;
+    background-image: url(./youtubeimg/murd.jpg);
+     background-image:no-repeat;
+     background-size: cover;
+     background-position:bottom;
+     
+ }
+ .ram333 h3{
+     font-family: sans-serif;
+     font-size: 15px;
+     margin-left: 10px;
+ }
+ .ram333 h5{
+     font-family: sans-serif;
+     font-size: 13px;
+     color: grey;
+     font-weight: lighter;
+     margin-top: -5px;
+     margin-left: 10px;
+ }
+ .ram444{
+    height:380px;
+    width: 225px;
+    margin-top: 25px;
+    margin-left: 12px;
+    border:solid 0px;
+    border-radius: 20px;
+ }
+ .laksh444{
+     height:380px;
+     width: 225px;
+     border-radius: 20px;
+     border: solid 0px;
+    background-image: url(./youtubeimg/meo.jpg);
+     background-image:no-repeat;
+     background-position:center;
+     background-size: cover;
+     
+ }
+ .ram444 h3{
+     font-family: sans-serif;
+     font-size: 15px;
+     margin-left: 10px;
+ }
+ .ram444 h5{
+     font-family: sans-serif;
+     font-size: 13px;
+     color: grey;
+     font-weight: lighter;
+     margin-top: -5px;
+     margin-left: 10px;
+ }
+ .ram555{
+    height:380px;
+    width: 225px;
+    margin-top: 25px;
+    margin-left: 12px;
+    border:solid 0px;
+    border-radius: 20px;
+ }
+ .laksh555{
+     height:380px;
+     width: 225px;
+     border-radius: 20px;
+     border: solid 0px;
+    background-image: url(./youtubeimg/rcb.webp);
+     background-image:no-repeat;
+     background-position:center;
+     background-size: cover;
+     
+ }
+ .ram555 h3{
+     font-family: sans-serif;
+     font-size: 15px;
+     margin-left: 10px;
+ }
+ .ram555 h5{
+     font-family: sans-serif;
+     font-size: 13px;
+     color: grey;
+     font-weight: lighter;
+     margin-top: -5px;
+     margin-left: 10px;
+ }
+ .ram666{
+    height:380px;
+    width: 225px;
+    margin-top: 25px;
+    margin-left: 12px;
+    border:solid 0px;
+    border-radius: 20px;
+ }
+ .laksh666{
+     height:380px;
+     width: 225px;
+     border-radius: 20px;
+     border: solid 0px;
+    background-image: url(./youtubeimg/skan.jpg);
+     background-image:no-repeat;
+     background-position:center;
+     background-size: cover;
+     
+ }
+ .ram666 h3{
+     font-family: sans-serif;
+     font-size: 15px;
+     margin-left: 10px;
+ }
+ .ram666 h5{
+     font-family: sans-serif;
+     font-size: 13px;
+     color: grey;
+     font-weight: lighter;
+     margin-top: -5px;
+     margin-left: 10px;
+ }
+ .achieve9845{
+    display: flex;
+ }
+ .book9845{
+    height: 400px;
+    width: 80px;
+    border: solid 0px;
+    margin-top: 50px;
+}
+.mobile9845{
+    height:340px;
+    width: 100%;
+    border: solid 0 px;
+    display: flex;
+    margin-top: 170px;
+}
+.ram123{
+    height:320px;
+    width: 350px;
+    margin-top: 25px;
+    margin-left: 25px;
+    border:solid 0px;
+    border-radius: 20px;
+    margin-left: 10px;
+ }
+ .laksh123{
+    height:200px;
+    width: 350px;
+    border-radius: 20px;
+    /* margin-left: 0px; */
+    border: solid 0px;
+    background-image: url(./youtubeimg/up.webp);
+    background-image:no-repeat;
+    background-size: cover;
+    
+     
+ }
+ .circ123{
+    height: 30px;
+    width: 30px;
+    border: solid 1px;
+    border-radius: 50%;
+    background-image: url(./youtubeimg/uu.jpg);
+     background-image: no-repeat;
+    background-size: cover;
+    margin-top: 14px;
+    margin-left: 10px;
+}
+ .ram123 h3{
+    font-family: sans-serif;
+    font-size: 15px;
+    margin-top: -33px;
+    margin-left: 50px;
+ }
+ .ram123 h5{
+    font-family: sans-serif;
+    font-size: 13px;
+    color: grey;
+    font-weight: lighter;
+    margin-top: -5px;
+    margin-left: 50px;
+ }
+ .ram99{
+    height:320px;
+    width: 350px;
+    margin-top: 25px;
+    margin-left: 25px;
+    border:solid 0px;
+    border-radius: 20px;
+    margin-left: 10px;
+ }
+ .laksh99{
+    height:200px;
+    width: 350px;
+    border-radius: 20px;
+    /* margin-left: 0px; */
+    border: solid 0px;
+    background-image: url(./youtubeimg/mc.webp);
+    background-image:no-repeat;
+    background-size: cover;
+    
+     
+ }
+ .circ99{
+    height: 30px;
+    width: 30px;
+    border: solid 1px;
+    border-radius: 50%;
+    background-image: url(./youtubeimg/carry.jpg);
+     background-image: no-repeat;
+    background-size: cover;
+    margin-top: 14px;
+    margin-left: 10px;
+}
+ .ram99 h3{
+    font-family: sans-serif;
+    font-size: 15px;
+    margin-top: -33px;
+    margin-left: 50px;
+ }
+ .ram99 h5{
+    font-family: sans-serif;
+    font-size: 13px;
+    color: grey;
+    font-weight: lighter;
+    margin-top: -5px;
+    margin-left: 50px;
+ }
+ .ram321{
+    height:320px;
+    width: 350px;
+    margin-top: 25px;
+    margin-left: 25px;
+    border:solid 0px;
+    border-radius: 20px;
+    margin-left: 10px;
+ }
+ .laksh321{
+    height:200px;
+    width: 350px;
+    border-radius: 20px;
+    /* margin-left: 0px; */
+    border: solid 0px;
+    background-image: url(./youtubeimg/gta.webp);
+    background-image:no-repeat;
+    background-size: cover;
+    
+     
+ }
+ .circ311{
+    height: 30px;
+    width: 30px;
+    border: solid 0px;
+    border-radius: 50%;
+    background-image: url(./youtubeimg/vice.jpg);
+     background-image: no-repeat;
+    background-size: cover;
+    margin-top: 14px;
+    margin-left: 10px;
+}
+ .ram321 h3{
+    font-family: sans-serif;
+    font-size: 15px;
+    margin-top: -33px;
+    margin-left: 50px;
+ }
+ .ram321 h5{
+    font-family: sans-serif;
+    font-size: 13px;
+    color: grey;
+    font-weight: lighter;
+    margin-top: -5px;
+    margin-left: 50px;
+ }
+ .ramppp{
+    height:320px;
+    width: 350px;
+    margin-top: 25px;
+    margin-left: 25px;
+    border:solid 0px;
+    border-radius: 20px;
+    margin-left: 10px;
+ }
+ .lakshppp{
+    height:200px;
+    width: 350px;
+    border-radius: 20px;
+    /* margin-left: 0px; */
+    border: solid 0px;
+    background-image: url(./youtubeimg/tech.webp);
+    background-image:no-repeat;
+    background-size: cover;
+    
+     
+ }
+ .circppp{
+    height: 30px;
+    width: 30px;
+    border: solid 0px;
+    border-radius: 50%;
+    background-image: url(./youtubeimg/guru.jpg);
+     background-image: no-repeat;
+    background-size: cover;
+    margin-top: 14px;
+    margin-left: 10px;
+}
+ .ramppp h3{
+    font-family: sans-serif;
+    font-size: 15px;
+    margin-top: -33px;
+    margin-left: 50px;
+ }
+ .ramppp h5{
+    font-family: sans-serif;
+    font-size: 13px;
+    color: grey;
+    font-weight: lighter;
+    margin-top: -5px;
+    margin-left: 50px;
+ }
